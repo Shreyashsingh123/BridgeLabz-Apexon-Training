@@ -1,0 +1,27 @@
+#  PRACTICED BASIC GITHUB COMMANDS
+
+# status  :  Shows the current state of the working directory
+ 
+# init    :  Initializes a new Git repository
+ 
+# add     :  Stages files for commit
+ 
+# commit  :  Saves staged changes with a message
+
+# clone   :  Creates a local copy of a remote repository
+ 
+# log     :  Displays commit history
+ 
+# branch  :  Lists or creates branches
+
+# switch  :  Switches between branches
+
+# merge   :  Combines changes from one branch into another
+
+# pull    :  Fetches and merges changes from the remote repository
+
+# push    :  Uploads local commits to the remote repository
+
+# diff    :  Shows differences between changes
+
+# remote  :  Manages remote repositories
