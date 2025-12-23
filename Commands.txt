@@ -1,0 +1,32 @@
+PRACTICED BASIC LINUX COMMANDS 
+#  pwd   :   Shows the current working directory path
+  
+#  ls    :   Lists files and folders
+  
+#  cd    :   Changes the current directory
+ 
+#  clear :   Clears the terminal screen
+ 
+#  mkdir :   Creates a new directory
+  
+#  rm    :   Deletes files or directories
+  
+#  touch :   Creates a new empty file
+
+#  cp    :   Copies files or directories
+
+# mv     :   Moves or renames files/directories
+
+# cat    :   Displays file content in the terminal
+
+# less   :   Views file content page by page
+
+# head   :   Shows the first few lines of a file
+
+# tail   :   Shows the last few lines of a file
+ 
+# grep   :   Searches for text inside files
+ 
+# find   :   Searches for files and directories
+ 
+# chmod   :   Changes file permissions
