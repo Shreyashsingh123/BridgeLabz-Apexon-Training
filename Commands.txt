@@ -25,3 +25,7 @@
 # diff    :  Shows differences between changes
 
 # remote  :  Manages remote repositories
+
+# restore  : undo changes of file 
+
+# rebase  : reapply commits
